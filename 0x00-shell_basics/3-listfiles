@@ -4,3 +4,5 @@ ls-l
 ls -l
 #!/bin/bash
 lsl
+#!/bin/bash
+ls-l
